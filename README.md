@@ -27,4 +27,5 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, Git, Ruby on Rails, Devise, Faye, Redi
 7. Split HTML into ERB templates
 8. Develop code problems (e.g. Hello World for 1st question, etc. like a mini-curriculum of a few (~10?) exercises
 9. <strong>OPTION!!</strong> Run the submitted code in a Ruby sandbox on the server <strong><em>OR</em></strong> hardcode values with string variables.
-10. 
+10. Realtime video streaming? http://liamkaufman.com/blog/2013/02/27/adding-real-time-to-a-restful-rails-app/
+11. Use <strong><code>Ace</code></strong> for the code editor on the side... Just like CodeCademy does.
